@@ -1,0 +1,24 @@
+we have to make it a more user interactive site as we have a lot of competition
+
+so iam writing few priorities which need to be done to make it a master piece
+
+priorities-
+1) we need to redisign the page some what like this copy this link and paste in google ->"http://ecom.creativecentral.in/shop?category=&search="
+2)our app should be easy and user friendly without complexity (users should get easy access so we need to keep a design in that manner)
+3) a)shopping b)repairing guys c)bookings - these are the three parts where we need to work a lot rediriting the pages, connections between each link,making tables and grids 
+4) regarding our entrepreneurship cell we currently need to build a different registration page so that these people can enroll themselves and be resgistered to sell their products
+5)login page for our clients so that they can register and do the payments get prime membership etc etc
+
+Note-
+the task is very big and everyone needs to contribute 
+
+tharun and me-
+so what i have decided is me and tharun will do the whole setup from designing and registering part(login pages )
+
+anuj and akshay-
+anuj and akshay you guys needs to work on the core that is linking the pages and all that is (refer 3 rd priority )
+so the task for akshay and anug is collect images of prodcts and start forming pages 
+(if need help refer amazone flipkart and see how their pages are,
+both work in pair have a common idea and layout after preparing one page share 
+with me and tharun so that we can finalize the layout dont worry about linking see to it that you guys make it a realistic page as
+its a big e commerce site try adding varities with price tags below images) first u guys do the shopping part ,repairing and booking we all 4 will do it together as it is easy .
